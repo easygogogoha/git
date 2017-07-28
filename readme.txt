@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world~i love tuanji
-lalala~
+=======
+hello world~i love tuanji~muma~muma
+>>>>>>> feature1
+
